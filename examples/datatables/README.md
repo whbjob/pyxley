@@ -10,6 +10,7 @@ Make sure pyxley is installed first (run `python setup.py install`).
 ## NPM
 Install NPM (e.g brew install node). Then run `npm install -g` in the directory containing
 package.json. `-g` will make bower available globally.
+Search NPM path with `which npm`, then run `sudo npm install -g bower`
 
 ### Bower
 Create a file called `.bowerrc` containing
