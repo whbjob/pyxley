@@ -21,7 +21,7 @@ Create a file called `.bowerrc` containing
 ```
 This will tell bower where to install the packages.
 
-Now run `bower install` to install the bower components.
+Now run `bower install` to install the bower components in project path.
 
 # Flask
 Run `python app.py`.
